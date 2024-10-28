@@ -4,7 +4,7 @@ function index() {
   return (
     <div>
         <h1>
-        faisalbaig-technificent
+        faisalbaig-technificent...
         </h1>
     </div>
   )
